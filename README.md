@@ -8,4 +8,4 @@
 3. Дисциплинированный
 4. Креативный 
 
-![Моя фотография.jpg](img/Моя фотография.jpg)
+![](https://github.com/Neketa77/CourseWork/blob/master/img/Моя%20фотография.jpg?raw=true)
